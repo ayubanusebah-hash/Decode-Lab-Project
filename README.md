@@ -15,6 +15,7 @@ Dataset
 -	AVG – calculated the average order value.
 
 Outcome
+
 The SQL analysis successfully demonstrated how SQL can be used to retrieve, filter, sort, group, and summarize data to generate meaningful insights from an e-commerce dataset.
 
 Tools Used:
